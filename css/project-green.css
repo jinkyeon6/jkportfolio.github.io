@@ -479,14 +479,13 @@ header{position: relative; z-index: 1000;}
     margin-left: 114px;
 }
 #section3 .icon1{padding-left: 47%; overflow: hidden;}
-#section3 .icon .icons{overflow: hidden; padding-bottom: 83px;}
+#section3 .icon .icons{overflow: hidden; padding-bottom: 68px;}
 #section3 .icon p{
     font-size: 18px;
     font-weight: 500;
     padding-top: 25px;
     padding-bottom: 25px;
 }
-#section3 .icon img{
 
 /*section4 style*/
 #section4{
